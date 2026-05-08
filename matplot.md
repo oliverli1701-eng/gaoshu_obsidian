@@ -16,3 +16,36 @@
 | 保存    | `fig.savefig("file.png")`    |
 
 numpy是numerical python
+
+```
+#柱状图
+import matplotlib.pyplot as plt 
+import numpy as np 
+x = np.linspace(0, 10, 200) 
+y = np.sin(x) 
+fig, ax = plt.subplots(figsize=(4, 3)) 
+ax.plot(x, y, linewidth=2) 
+ax.set_xlabel("Time (s)") 
+ax.set_ylabel("Signal") 
+ax.set_title("Sine wave") 
+plt.show()
+```
+
+```
+#折线图
+import matplotlib.pyplot as plt  
+import numpy as np  
+  
+categories = ["a","b","c","d","e"]  
+values = [1,2,3,4,5]  
+  
+fig,ax = plt.subplots(figsize=(5,5))  
+ax.bar(categories,values)  
+  
+ax.set_xlabel("x")  
+ax.set_ylabel("y")  
+ax.set_title("title")  
+  
+plt.show()
+```
+
