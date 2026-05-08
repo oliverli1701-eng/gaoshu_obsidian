@@ -49,3 +49,22 @@ ax.set_title("title")
 plt.show()
 ```
 
+```
+#散点图
+import matplotlib.pyplot as plt  
+import numpy as np  
+  
+x = np.random.rand(50)  
+y = np.random.rand(50)  
+  
+fig,ax = plt.subplots(figsize=(5,5))  
+  
+ax.scatter(x,y)  
+  
+ax.set_xlabel("x")  
+ax.set_ylabel("y")  
+ax.set_title("title")  
+  
+plt.show()
+```
+
