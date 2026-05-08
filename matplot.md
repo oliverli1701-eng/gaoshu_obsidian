@@ -14,3 +14,5 @@
 | 图例    | `ax.legend()`                |
 | 网格    | `ax.grid(True)`              |
 | 保存    | `fig.savefig("file.png")`    |
+
+numpy是numerical python
