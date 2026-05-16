@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#第1章",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +74,12 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "1d0cf2c9c4e93c4c",
@@ -185,7 +185,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "89eb9f3845a88988",
+  "active": "7f9de6edecc41ae4",
   "lastOpenFiles": [
     "网站流程.md",
     "密码学引论 笔记.md",
