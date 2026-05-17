@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "速成.md",
+                "file": "密码学引论 笔记 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "速成"
+              "title": "密码学引论 笔记 1"
             }
           }
         ],
@@ -202,6 +202,7 @@
   "active": "fa76237db5cc0479",
   "lastOpenFiles": [
     "密码学引论 笔记.md",
+    "密码学引论 笔记 1.md",
     "速成.md",
     "网站流程.md",
     "matplot.md",
