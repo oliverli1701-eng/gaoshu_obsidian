@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名 1.md",
+                "file": "密码学引论 笔记.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名 1"
+              "title": "密码学引论 笔记"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "198e08b647a0010a",
   "lastOpenFiles": [
-    "密码学引论 笔记 1.md",
     "未命名 1.md",
+    "密码学引论 笔记 1.md",
     "密码学引论 笔记.md",
     "速成.md",
     "网站流程.md",
